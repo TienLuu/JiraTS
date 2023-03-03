@@ -21,5 +21,5 @@
       trái ngành, nên khi gặp được môi trường tại Cybersoft em rất thích.
     - Bản thân em rất thích công việc hỗ trợ mọi người, chỉ cần giúp được người khác thì em cũng vui. Vì lý do đó, nên khi học lớp FE BC32 em có tạo group cùng học
       với các bạn, cùng nhau trao đổi và hỗ trợ nhau. Nay Cybersoft có tuyển dụng mentor, em phải tranh thủ apply liền. Hiện tại em thấy trung tâp bắt đầu dạy
-      bằng typescript, mà typescript em cũng mới dùng chưa tới 2 tháng gần đây, nên kiến thức em còn hạn hẹp. Nhưng em sẽ cải thiện để đáp ứng theo công việc, hi vọng
+      bằng typescript, mà typescript em cũng mới dùng gần đây, nên kiến thức em còn hạn hẹp. Nhưng em sẽ cải thiện để đáp ứng theo công việc, hi vọng
       sẽ được nhận làm mentor của Trung tâm Cybersoft ạ
